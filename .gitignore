@@ -1,0 +1,12 @@
+*csv
+*npy
+*sh
+*hdf5
+*pkl
+*pt
+notebook/__pycache__
+notebook/.ipynb_checkpoints
+src/model
+src/wandb
+src/lightning_logs
+src/__pycache__
